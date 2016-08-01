@@ -19,3 +19,7 @@ Small Framework for using script serverside on Exile Mod.
 #v1.0
 * Added watermark image on bottol left of your screen
 * Added welcomemessage on right side of your screen. (Popups after client joined server for about 1-2 seconds)
+
+
+# Info
+You can read more about position on your screen here -> https://community.bistudio.com/wiki/safeZoneX
