@@ -5,13 +5,14 @@ class CfgFunctions
 		tag = "altiz_exile";
 		class Master_Directory
 		{
-			file = "addons\welcome_message";
+			file = "addons\framework";
 			class initCore {};
 		};
 		class Functions
 		{
-			file = "addons\welcome_message\function";
+			file = "addons\framework\function";
 			class welcome {};
+      class watermark {};
 		};
 	};
 };
