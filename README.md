@@ -8,7 +8,9 @@ Small Framework for using script serverside on Exile Mod.
 * Add files from repo inside
 * On top of your init.sqf add [] call altiz_exile_fnc_initCore;
 * On bottom of your description.ext add #include "addons\framework\cfg\CfgFunctions.hpp"
-
+* Pack you mission into PBO
+* Upload to your server
+* Restart your server
 
 # Changes
 * You can change the Client Core tag in cfg/CfgFunctions.hpp to yours
